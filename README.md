@@ -1,5 +1,8 @@
 # Foldable-Card-Hover
-Foldable Card Hover using only HTML + CSS 
+Foldable Card Hover using only HTML + CSS
+
+video used as reference
+https://www.youtube.com/watch?v=xDy2UptgdUY
 
 
 ![image](https://user-images.githubusercontent.com/72774408/168296758-80a50364-311b-4457-8e3a-01d5f248e355.png)
